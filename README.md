@@ -1,5 +1,5 @@
 # Milk Tracker Kore.ai HackerEarth API Challenge
-A milk tracker NodeJS project for Kore.ai HackerEarth interview
+A milk tracker NodeJS project for Kore.ai HackerEarth interview. Here is the [Github Repo Link](https://github.com/hey24sheep/milk_tracker_kore.ai_test)
 
 # What is used?
 Fastify, with a in memory "mock session data" for quick and easy assesment. 
